@@ -1,0 +1,54 @@
+Initialize engine version: 4.6.2f1 (bd99309c2ad7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 745M (ID=0xfe3)
+    Vendor:   NVIDIA
+    VRAM:     1988 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\User\Documents\Unity Projects User\Platformer2D Test 2\TestBuilds\BasicStuffAlpha0003_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\User\Documents\Unity Projects User\Platformer2D Test 2\TestBuilds\BasicStuffAlpha0003_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\Unity Projects User\Platformer2D Test 2\TestBuilds\BasicStuffAlpha0003_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\User\Documents\Unity Projects User\Platformer2D Test 2\TestBuilds\BasicStuffAlpha0003_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\Unity Projects User\Platformer2D Test 2\TestBuilds\BasicStuffAlpha0003_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\User\Documents\Unity Projects User\Platformer2D Test 2\TestBuilds\BasicStuffAlpha0003_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.216 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\User\Documents\Unity Projects User\Platformer2D Test 2\TestBuilds\BasicStuffAlpha0003_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\User\Documents\Unity Projects User\Platformer2D Test 2\TestBuilds\BasicStuffAlpha0003_Data\Managed\System.dll (this message is harmless)
+Exit Door Reached
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+LevelManager:VictoryNotif() (at C:\Users\User\Documents\Unity Projects User\Platformer2D Test 2\Assets\Scripts\LevelManager.cs:28)
+ExitDoor:OnTriggerEnter2D(Collider2D) (at C:\Users\User\Documents\Unity Projects User\Platformer2D Test 2\Assets\Scripts\ExitDoor.cs:22)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineMonoBehaviour.cs Line: 108)
+
+UnloadTime: 100.259026 ms
+System memory in use before: 10.1 MB.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.0 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 568.
+Total: 3.424647 ms (FindLiveObjects: 0.115894 ms CreateObjectMapping: 0.087241 ms MarkObjects: 0.996004 ms  DeleteObjects: 0.027797 ms)
+
+Exit Door Reached
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+LevelManager:VictoryNotif() (at C:\Users\User\Documents\Unity Projects User\Platformer2D Test 2\Assets\Scripts\LevelManager.cs:28)
+ExitDoor:OnTriggerEnter2D(Collider2D) (at C:\Users\User\Documents\Unity Projects User\Platformer2D Test 2\Assets\Scripts\ExitDoor.cs:22)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineMonoBehaviour.cs Line: 108)
+
+UnloadTime: 4.720436 ms
+System memory in use before: 9.8 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 9.7 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 134.
+Total: 2.719874 ms (FindLiveObjects: 0.034639 ms CreateObjectMapping: 0.033784 ms MarkObjects: 0.426370 ms  DeleteObjects: 0.769348 ms)
+
